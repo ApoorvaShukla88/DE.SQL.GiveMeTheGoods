@@ -1,0 +1,1 @@
+select * from Students where city not like "a%" or "c%" or "f%";
